@@ -1,0 +1,65 @@
+body {
+  background-color: black;
+  font-family: cursive;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  color: #edaefd;
+  font-size: 50px;
+}
+
+h2 {
+  color: #ffa9a9;
+  font-size: 25px;
+}
+
+a {
+  color: white;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+.summary {
+  color: #bdbbbb;
+  text-align: center;
+}
+
+.preamble {
+  color: #f9ffa3;
+}
+
+.explanation {
+  color: #c5ffb4;
+}
+
+.participation {
+  color: #b7faff;
+}
+
+.benefits {
+  color: #c9c5ff;
+}
+
+.requirements {
+  color: #ffc7de;
+}
+
+.design-selection {
+  color: #fdcbb4;
+}
+
+.design-archives {
+  color: #d7e8ff;
+}
+
+.zen-resources {
+  color: #fac8fa;
+}
+
+/*# sourceMappingURL=style.css.map */
